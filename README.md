@@ -19,7 +19,6 @@ cd online-resume
 
 ### 3. ✅ Done! Your resume should now be live in the browser.
 
-## 📷 Preview
 
 ## 📬 Contact
 - 📧 Email: [celminshanequizon@gmail.com](mailto:celminshanequizon@gmail.com)
