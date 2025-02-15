@@ -6,9 +6,11 @@
 }
 
 body{
-    background-color: bisque;
+    background-color: #A59D84;
     display: flex;
     justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
     font-family: "inter", serif;
     padding: 1.5rem 0;
 }
