@@ -12,14 +12,15 @@ body{
     gap: 50px;
     flex-wrap: wrap;
     font-family: "inter", serif;
-    padding: 1.5rem 0;
+    padding: 3.5rem 0;
 }
 
 /* main bondpaper */
 .main__bondpaper{
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.508);
-    width: 40%;
+    /* width: 40%; */
+    width: 39rem;
     padding: 1.5rem;
 }
 
