@@ -1,11 +1,11 @@
 # 📄 Online Resume
 A personal online resume built with `HTML` and `CSS`, showcasing my CV, skills, and certifications.
 
-## 🛠 Tech Stack
+## </> Tech Stack
 - HTML
 - CSS
 
-## 🚀 How to Use
+## 💡 Get Started
 ### 1. Clone this repository
 ```bash
 https://github.com/clmnshn28/online-resume.git
@@ -18,6 +18,9 @@ cd online-resume
     - Search for "**Live Server**" (by Ritwick Dey), install it, then run "Open with Live Server".
 
 ### 3. ✅ Done! Your resume should now be live in the browser.
+
+## 🔎 Overview 
+![alt text](images/image.png)
 
 
 ## 📬 Contact
